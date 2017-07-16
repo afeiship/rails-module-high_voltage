@@ -1,0 +1,1 @@
+TEAM = YAML.load_file("#{Rails.root}/config/data/team.yml")
